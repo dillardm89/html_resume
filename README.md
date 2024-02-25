@@ -1,7 +1,7 @@
 # html_resume
 Resume website using HTML only
 
-### Visit Project Site: https://dillardm89.github.io/resume_htmlonly/
+### Visit Project Site: https://dillardm89.github.io/html_resume/
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlkNGtibDV3MHV2ZDN2NnA0eWp2d2o1d2R5c3dxc24weDZhNGJ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/39jLRB9avpaB7yQrp2/giphy.gif)
 
