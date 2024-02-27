@@ -12,5 +12,4 @@ Resume website using HTML only
 - Use the appropriate HTML tags to format the content of each section
 - Use HTML tags to add a profile photo
 - Use relevant anchor tags to create a multi-page website or link to relevant external content
-- Add a footer element with your name and any copyright information
-- Add your website to your GitHub to start building your portfolio
+- Add a footer element with name and any copyright information
